@@ -46,7 +46,7 @@ Hello World!
 
 Some more text here...
 
-view the index.html that is generated:: 
+edit the file index.rst, which uses the directive, and view the generated index.html:: 
 
     make html
     cd build/html
