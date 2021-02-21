@@ -1,5 +1,5 @@
-Hello World Sphinx
-===================
+Using a python directive (simple python program) to do/say anyting, such as "Hello World"
+=========================================================================================
 
 Following these instructions:
 https://www.sphinx-doc.org/en/master/development/tutorials/helloworld.html
@@ -30,6 +30,7 @@ You can now use the extension in a file. For example:
 
 Some intro text here...
 
+// use the following directive anywhere and it will get expanded by the python program
 .. helloworld::
 
 Some more text here...
