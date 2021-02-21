@@ -31,8 +31,8 @@ You can now use the extension in a file. For example:
 Some intro text here...
 
 use the following directive anywhere and it will get expanded by the python program
-::
-    :linenos:
+.. code-block:: 
+   :linenos:
 
     helloworld::
 
