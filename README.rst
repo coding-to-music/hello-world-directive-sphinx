@@ -1,4 +1,4 @@
-Using a python directive (simple python program) to do/say anyting, such as "Hello World"
+Using a python directive (simple python program) to do or say anything, such as "Hello World"
 =========================================================================================
 
 Following these instructions:
