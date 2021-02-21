@@ -31,10 +31,11 @@ You can now use the extension in a file. For example:
 Some intro text here...
 
 use the following directive anywhere and it will get expanded by the python program
+
 .. code-block:: 
 :linenos:
 
-    helloworld::
+    `::helloworld::`
 
 Some more text here...
 The sample above would generate:
