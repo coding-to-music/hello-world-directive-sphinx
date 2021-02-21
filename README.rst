@@ -6,8 +6,8 @@ https://www.sphinx-doc.org/en/master/development/tutorials/helloworld.html
 
 Steps:
 
-.. code-block:: bash
-    :linenos:
+Here is what needs to be done:: 
+
     mkdir hello-world-sphinx
     cd hello-world-sphinx
     sphinx-quickstart
@@ -18,8 +18,8 @@ Create a new Python file in the _ext folder called helloworld.py
 
 modify conf.py
 
-.. code-block:: bash
-    :linenos:
+.. code-block:: 
+
     import os
     import sys
 
