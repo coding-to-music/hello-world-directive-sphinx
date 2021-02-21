@@ -32,8 +32,8 @@ Some intro text here...
 
 use the following directive anywhere and it will get expanded by the python program
 ::
-
-helloworld::
+    :linenos:
+    helloworld::
 
 Some more text here...
 The sample above would generate:
