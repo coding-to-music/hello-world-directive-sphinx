@@ -46,8 +46,9 @@ Hello World!
 
 Some more text here...
 
-.. code-block:: 
-    :linenos:
-    cd html
+view the index.html that is generated:: 
+
+    make html
+    cd build/html
     python3 -m http.server
     http://0.0.0.0:8000/
