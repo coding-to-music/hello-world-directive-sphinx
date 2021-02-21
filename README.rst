@@ -17,8 +17,7 @@ Here is what needs to be done::
 Create a new Python file in the _ext folder called helloworld.py
 
 modify conf.py
-
-.. code-block:: 
+:: 
 
     import os
     import sys
